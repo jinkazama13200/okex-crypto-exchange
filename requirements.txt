@@ -1,0 +1,7 @@
+ccxt
+python-dotenv
+requests
+pandas
+pytest
+black
+flake8
